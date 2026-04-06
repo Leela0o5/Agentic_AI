@@ -1,6 +1,8 @@
 # Multi-Agent Pipeline
 
 An orchestrator-worker agent system that decomposes complex tasks and dispatches them to specialist workers running in parallel.
+
+Just Python, Gemini API, LangGraph, and LangSmith.
  ![Diagram](multi_agent_pipeline_diagram.svg)
 ## Setup
 
